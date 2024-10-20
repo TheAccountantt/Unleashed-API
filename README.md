@@ -1,5 +1,7 @@
 Unleashed API Integration with Power BI Using Python
 
+Unleashead is an inventory management software tool owned by Access Financials. 
+
 This project provides a solution for connecting the Unleashed API to Power BI using Python. The script allows you to fetch data from various endpoints such as Invoices, StockOnHand, and Accounts directly into Power BI, enabling real-time analysis and reporting.
 
 Prerequisites
