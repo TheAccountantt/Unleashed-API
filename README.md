@@ -53,6 +53,4 @@ Pagination: The script can be adjusted to handle pagination for large datasets.
 
 Notes
 
-Security: Keep your API credentials secure. Do not share them publicly.
-
 Data Volume: For large datasets, consider using pagination to split data into manageable chunks.
