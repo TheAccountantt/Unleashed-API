@@ -21,12 +21,8 @@ cd <repository-directory>
 
 Edit Credentials: Open the Python script and update your credentials.
 
-# Define your credentials
 
-<vscode_annotation details='%5B%7B%22title%22%3A%22hardcoded-credentials%22%2C%22description%22%3A%22Embedding%20credentials%20in%20source%20code%20risks%20unauthorized%20access%22%7D%5D'> </vscode_annotation> API_ID = "your_api_id" API_KEY = "your_api_key"
-
-
-### Step 2: Update Endpoints
+### Update Endpoints
 
 Modify the `endpoints` list in the Python script to include the endpoints you need. You can add or remove endpoints based on your requirements.
 ```python
